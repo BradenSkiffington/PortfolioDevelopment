@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PortfolioDevelopment/static/css/main.9100b98e.css",
-    "main.js": "/PortfolioDevelopment/static/js/main.4f46be23.js",
+    "main.js": "/PortfolioDevelopment/static/js/main.888ada08.js",
     "static/media/S2_MidSprint.png": "/PortfolioDevelopment/static/media/S2_MidSprint.5417297c4f9e958b5bfe.png",
     "static/media/S3_JavaSprint.png": "/PortfolioDevelopment/static/media/S3_JavaSprint.dc134c99d03ae2eb2ca4.png",
     "static/media/AnyAnimals.png": "/PortfolioDevelopment/static/media/AnyAnimals.b5032d94264b676921a1.png",
@@ -10,6 +10,7 @@
     "static/media/BradenHannahSignalHill.jpg": "/PortfolioDevelopment/static/media/BradenHannahSignalHill.14c12ab8bdb5b897b8b1.jpg",
     "static/media/SkillsCanadaMedalPic.jpg": "/PortfolioDevelopment/static/media/SkillsCanadaMedalPic.e1d8c88a3753e97f5435.jpg",
     "static/media/gradpic.jpg": "/PortfolioDevelopment/static/media/gradpic.806e1cca103b14463a93.jpg",
+    "static/media/Braden Skiffington_resume.pdf": "/PortfolioDevelopment/static/media/Braden Skiffington_resume.77c34e61047aafc28f23.pdf",
     "static/media/SkillsCanadaTop3.jpg": "/PortfolioDevelopment/static/media/SkillsCanadaTop3.ea7b3cefb5a7bbb00b03.jpg",
     "static/media/ScoutSock.jpg": "/PortfolioDevelopment/static/media/ScoutSock.47df0b20268cd7ae1ceb.jpg",
     "static/media/S1_Project3B.png": "/PortfolioDevelopment/static/media/S1_Project3B.5311ff93df7e4daea316.png",
@@ -19,7 +20,6 @@
     "static/media/ScreenSharing.png": "/PortfolioDevelopment/static/media/ScreenSharing.f0a91e7a13c0c30de984.png",
     "static/media/S1_Project1A.png": "/PortfolioDevelopment/static/media/S1_Project1A.7a8a3742d2e6e5f39528.png",
     "static/media/S2_FinalSprint.png": "/PortfolioDevelopment/static/media/S2_FinalSprint.dfa1f2eb7c0f30a38a19.png",
-    "static/media/Braden Skiffington_resume.pdf": "/PortfolioDevelopment/static/media/Braden Skiffington_resume.e63214248d72ac1ef493.pdf",
     "static/media/CaulsPythonApp.png": "/PortfolioDevelopment/static/media/CaulsPythonApp.6d78255d2af4652f70c3.png",
     "static/media/S2_QAP3.png": "/PortfolioDevelopment/static/media/S2_QAP3.5707b45160428b895afd.png",
     "static/media/left-arrow.png": "/PortfolioDevelopment/static/media/left-arrow.b5450a531d0b22fcdb22.png",
@@ -30,10 +30,10 @@
     "static/media/slick.woff": "/PortfolioDevelopment/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/PortfolioDevelopment/index.html",
     "main.9100b98e.css.map": "/PortfolioDevelopment/static/css/main.9100b98e.css.map",
-    "main.4f46be23.js.map": "/PortfolioDevelopment/static/js/main.4f46be23.js.map"
+    "main.888ada08.js.map": "/PortfolioDevelopment/static/js/main.888ada08.js.map"
   },
   "entrypoints": [
     "static/css/main.9100b98e.css",
-    "static/js/main.4f46be23.js"
+    "static/js/main.888ada08.js"
   ]
 }
